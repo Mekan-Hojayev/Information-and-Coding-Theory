@@ -1,4 +1,4 @@
-# MInformation and Coding Theory 2019
+# Information and Coding Theory 2019
 Skoltech Course
 MA06122 (Term 3, 2018-2019)
 
