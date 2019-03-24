@@ -16,4 +16,4 @@ The aim of the course is to explain basic ideas and results of information and c
 [4. Final Project](https://github.com/dzisandy/RM_decoder)
 
 ## Instructor
-* **Evgeny Burnaev** - *Associate Professor* - [Link](https://faculty.skoltech.ru/people/evgenyburnaev)
+* **Alexey Frolov** - *Assistant Professor* - [Link](https://faculty.skoltech.ru/people/alexeyfrolov)
